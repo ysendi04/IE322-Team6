@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\IE322 Project\IE322 Project\bin\Debug\IE322 Project.exe.config
+C:\Users\Admin\source\repos\IE322 Project\IE322 Project\bin\Debug\IE322 Project.exe
+C:\Users\Admin\source\repos\IE322 Project\IE322 Project\bin\Debug\IE322 Project.pdb
+C:\Users\Admin\source\repos\IE322 Project\IE322 Project\obj\Debug\IE322 Project.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IE322 Project\IE322 Project\obj\Debug\IE322_Project.InventoryManagementStudio.resources
+C:\Users\Admin\source\repos\IE322 Project\IE322 Project\obj\Debug\IE322_Project.Properties.Resources.resources
+C:\Users\Admin\source\repos\IE322 Project\IE322 Project\obj\Debug\IE322 Project.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\IE322 Project\IE322 Project\obj\Debug\IE322 Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IE322 Project\IE322 Project\obj\Debug\IE322 Project.exe
+C:\Users\Admin\source\repos\IE322 Project\IE322 Project\obj\Debug\IE322 Project.pdb
